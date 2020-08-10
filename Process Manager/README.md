@@ -35,4 +35,4 @@ telescopes.”
 
 For simplicity I included a makefile, all that you would need to type in the terminal is ```make```, and the makefile will compile and execute the program. ```make clean``` will clean up the directory and remove any unnecessary files.
 
-If you'd like to compile the program and run the program *manually*, begin by compiling with ```g++ -o bots pmanager-main.cpp -pthread``` then ```./bots```
+If you'd like to compile the program and run the program *manually*, begin by compiling with ```g++ -o bots pmanager-main.cpp -pthread``` then running with ```./bots```
