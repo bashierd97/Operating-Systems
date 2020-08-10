@@ -1,6 +1,6 @@
 #============== Process Manager MakeFile ============== 
 
-#Project Creators: Bashier Dahman 
+#Project Creator: Bashier Dahman 
 #Process Manager
 #Filename: makefile
 
