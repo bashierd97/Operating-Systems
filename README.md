@@ -1,4 +1,4 @@
-# Operating System (CS 570)
+# Operating Systems (CS 570)
 Projects and Course Work from CS 570
 
 ## Plagiarism Notice
