@@ -26,7 +26,7 @@ Each thread shall perform the following (note, each thread is running concurrent
 ### QUOTES FOR BOTS TO USE
 
 **Even numbered threads:** “Controlling complexity is the essence of computer programming.
---Brian Kernigan
+--Brian Kernigan <br />
 **Odd numbered threads:** “Computer science is no more about computers than astronomy is about
 telescopes.”
 --Edsger Dijkstra
